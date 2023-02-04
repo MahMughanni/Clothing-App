@@ -1,6 +1,6 @@
 # Clothing-App
 
-<img width="1644" alt="Screenshot 2023-02-04 at 5 29 47 PM" src="https://user-images.githubusercontent.com/43685429/216776380-1f1db95d-e9b9-4b70-9030-c8c6e8ec049c.png">
+<img width="1643" alt="Screenshot 2023-02-04 at 5 53 36 PM" src="https://user-images.githubusercontent.com/43685429/216777030-368c71ac-92c7-4112-b22d-66e870f5f90c.png">
 
 
 ![Simulator Screen Shot - iPhone 14 Pro Max - 2023-02-04 at 16 47 22](https://user-images.githubusercontent.com/43685429/216776452-173bd0ea-1dfb-40bf-aaf2-068939561017.png)
